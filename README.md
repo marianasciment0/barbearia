@@ -16,3 +16,9 @@ Este projeto foi desenvolvido durante as aulas de desenvolvimento front-end e co
 
 ---
 
+<div align="center"
+  
+  ## ![Texto Alternativo](https://github.com/marianasciment0/barbearia/blob/main/assets/demo.gif)
+  
+</div>
+
